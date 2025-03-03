@@ -67,7 +67,7 @@ This model can be deployed as an API using **FastAPI or Flask**. Example steps:
    curl -X 'POST' 'http://127.0.0.1:8000/predict' -H 'Content-Type: application/json' -d '{"Age": 30, "Subscription_Length": 12, "Monthly_Charge": 19.99, "Total_Spend": 239.88}'
    ```
 
-## **Technologies Used**  
+## **Technologies needed**  
 🔹 **Python** (Pandas, NumPy, Scikit-learn)  
 🔹 **Visualization** (Matplotlib, Seaborn)  
 🔹 **FastAPI/Flask** (for deployment)  
